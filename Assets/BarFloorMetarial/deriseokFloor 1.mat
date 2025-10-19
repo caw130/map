@@ -33,7 +33,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 219126f49d1e4104982faa560ed66624, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9a848edd258adbd48bf887d7b9ba7696, type: 3}
         m_Scale: {x: 6, y: 3}
         m_Offset: {x: 0, y: 0}
     - _BlendingNormalMapB:
@@ -93,7 +93,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 219126f49d1e4104982faa560ed66624, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9a848edd258adbd48bf887d7b9ba7696, type: 3}
         m_Scale: {x: 6, y: 3}
         m_Offset: {x: 0, y: 0}
     - _MatcapTex:
@@ -314,7 +314,7 @@ Material:
     - _OutlineMode: 8
     - _OutlineThickness: 1
     - _OutlineType: 0
-    - _Parallax: 0.0412
+    - _Parallax: 0.0304
     - _Pixelate: 0
     - _PixelateSize: 32
     - _Posterize: 0
@@ -345,7 +345,7 @@ Material:
     - _ShakeBlend: 1
     - _ShakeSpeedMult: 1
     - _Shininess: 2.6
-    - _Smoothness: 0.616
+    - _Smoothness: 0.65
     - _SmoothnessTextureChannel: 0
     - _SpecularAtten: 0.734
     - _SpecularHighlights: 1
